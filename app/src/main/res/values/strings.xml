@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CodepathMail</string>
+    <string name="senderText">TextView</string>
+    <string name="emailTitleText">TextView</string>
+    <string name="summaryText">TextView</string>
+    <string name="loadButtonText">Load More</string>
+</resources>
